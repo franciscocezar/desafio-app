@@ -1,0 +1,31 @@
+{
+    "acoes": [
+      {
+        "ticker": "PETR4",
+        "precoAtual": 28.50,
+        "dividendYield": 15.2,
+        "ultimoDividendo": 4.32,
+        "precoMin12m": 22.10,
+        "precoMax12m": 32.75,
+        "oscilacaoDia": 1.5,
+        "oscilacaoAno": 25.3,
+        "cnpj": "33.000.167/0001-01",
+        "logo": "https://example.com/logos/petrobras.png",
+        "siteRI": "http://www.investidorpetrobras.com.br"
+        
+      },
+      {
+        "ticker": "VALE3",
+        "precoAtual": 68.90,
+        "dividendYield": 8.7,
+        "ultimoDividendo": 6.00,
+        "precoMin12m": 55.20,
+        "precoMax12m": 85.40,
+        "oscilacaoDia": -0.8,
+        "oscilacaoAno": 12.1,
+        "cnpj": "33.592.510/0001-54",
+        "logo":"https://example.com/logos/vale.png",
+        "siteRI": "http://www.vale.com/ri"
+      }
+    ]
+  }
