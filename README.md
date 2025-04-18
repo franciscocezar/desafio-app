@@ -1,5 +1,5 @@
-Desafio API
-Linguagem Python
-Framework Flask
-Banco de dados MySql
+Tecnologias utilizadas:
 
+🐍 Linguagem: Python
+🔧 Framework: Flask
+🗄️ Banco de Dados: MySQL
